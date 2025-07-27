@@ -1,0 +1,4 @@
+MYSQL_ROOT_PASSWORD='root_password'
+MYSQL_HOST='mariadb-tiny'
+MYSQL_PORT=3306
+OPENAI_API_KEY='sk...'

@@ -1,0 +1,525 @@
+INFO 2024-11-23 10:50:25,773 autoreload Watching for file changes with StatReloader
+INFO 2024-11-23 10:51:11,103 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 10:51:14,627 basehttp "GET /chat/complete/359f1875-841f-4267-aebb-d18fc421674b HTTP/1.1" 200 164
+INFO 2024-11-23 11:07:47,593 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 11:07:52,127 basehttp "GET /chat/complete/7de05228-41a0-491e-b8cc-cbedb992c4f5 HTTP/1.1" 200 638
+WARNING 2024-11-23 11:15:22,393 log Not Found: /
+WARNING 2024-11-23 11:15:22,394 basehttp "GET / HTTP/1.1" 404 2162
+WARNING 2024-11-23 11:15:22,622 log Not Found: /favicon.ico
+WARNING 2024-11-23 11:15:22,623 basehttp "GET /favicon.ico HTTP/1.1" 404 2213
+INFO 2024-11-23 11:15:27,469 basehttp "GET /admin HTTP/1.1" 301 0
+INFO 2024-11-23 11:15:27,504 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-11-23 11:15:27,540 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4165
+INFO 2024-11-23 11:15:27,568 basehttp "GET /statics/admin/css/dark_mode.css HTTP/1.1" 200 2682
+INFO 2024-11-23 11:15:27,568 basehttp "GET /statics/admin/css/base.css HTTP/1.1" 200 21544
+INFO 2024-11-23 11:15:27,575 basehttp "GET /statics/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2024-11-23 11:15:27,578 basehttp "GET /statics/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-11-23 11:15:27,583 basehttp "GET /statics/admin/css/responsive.css HTTP/1.1" 200 17905
+INFO 2024-11-23 11:15:27,585 basehttp "GET /statics/admin/css/login.css HTTP/1.1" 200 958
+INFO 2024-11-23 11:15:27,585 basehttp "GET /statics/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-11-23 11:15:33,453 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-11-23 11:15:33,484 basehttp "GET /admin/ HTTP/1.1" 200 11035
+INFO 2024-11-23 11:15:33,500 basehttp "GET /statics/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-11-23 11:15:33,556 basehttp "GET /statics/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-11-23 11:15:33,556 basehttp "GET /statics/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-11-23 11:15:37,136 basehttp "GET /admin/memo/document/add/ HTTP/1.1" 200 13516
+INFO 2024-11-23 11:15:37,162 basehttp "GET /statics/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-11-23 11:15:37,165 basehttp "GET /statics/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2024-11-23 11:15:37,169 basehttp "GET /statics/admin/css/forms.css HTTP/1.1" 200 9090
+INFO 2024-11-23 11:15:37,174 basehttp "GET /statics/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+INFO 2024-11-23 11:15:37,176 basehttp "GET /statics/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2024-11-23 11:15:37,176 basehttp "GET /statics/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2024-11-23 11:15:37,187 basehttp "GET /statics/admin/js/actions.js HTTP/1.1" 200 8067
+INFO 2024-11-23 11:15:37,189 basehttp "GET /statics/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-11-23 11:15:37,195 basehttp "GET /statics/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-11-23 11:15:37,202 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-23 11:15:37,208 basehttp "GET /statics/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-11-23 11:15:37,210 basehttp "GET /statics/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2024-11-23 11:15:37,212 basehttp "GET /statics/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2024-11-23 11:15:37,225 basehttp "GET /statics/admin/css/widgets.css HTTP/1.1" 200 11800
+INFO 2024-11-23 11:15:37,225 basehttp "GET /statics/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-11-23 11:15:37,301 basehttp "GET /statics/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-11-23 11:15:37,301 basehttp "GET /statics/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2024-11-23 11:16:32,917 basehttp "POST /admin/memo/document/add/ HTTP/1.1" 302 0
+INFO 2024-11-23 11:16:32,958 basehttp "GET /admin/memo/document/ HTTP/1.1" 200 12473
+INFO 2024-11-23 11:16:32,976 basehttp "GET /statics/admin/css/changelists.css HTTP/1.1" 200 6811
+INFO 2024-11-23 11:16:32,984 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-23 11:16:32,985 basehttp "GET /statics/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-11-23 11:16:33,012 basehttp "GET /statics/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-11-23 11:16:33,014 basehttp "GET /statics/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-11-23 11:16:41,529 basehttp "POST /chat/complete HTTP/1.1" 200 51
+ERROR 2024-11-23 11:16:43,584 log Internal Server Error: /chat/complete/9513cabb-e005-4e81-abc0-7e3ac2b1b648
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:16:43,585 basehttp "GET /chat/complete/9513cabb-e005-4e81-abc0-7e3ac2b1b648 HTTP/1.1" 500 88744
+ERROR 2024-11-23 11:16:47,624 log Internal Server Error: /chat/complete/9513cabb-e005-4e81-abc0-7e3ac2b1b648
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:16:47,624 basehttp "GET /chat/complete/9513cabb-e005-4e81-abc0-7e3ac2b1b648 HTTP/1.1" 500 88743
+ERROR 2024-11-23 11:16:51,658 log Internal Server Error: /chat/complete/9513cabb-e005-4e81-abc0-7e3ac2b1b648
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:16:51,659 basehttp "GET /chat/complete/9513cabb-e005-4e81-abc0-7e3ac2b1b648 HTTP/1.1" 500 88743
+ERROR 2024-11-23 11:16:55,690 log Internal Server Error: /chat/complete/9513cabb-e005-4e81-abc0-7e3ac2b1b648
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:16:55,691 basehttp "GET /chat/complete/9513cabb-e005-4e81-abc0-7e3ac2b1b648 HTTP/1.1" 500 88744
+INFO 2024-11-23 11:16:59,706 basehttp "POST /chat/complete HTTP/1.1" 200 51
+ERROR 2024-11-23 11:17:01,747 log Internal Server Error: /chat/complete/81f20f2a-fc4d-4515-8d51-99a3ab0d601f
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:17:01,748 basehttp "GET /chat/complete/81f20f2a-fc4d-4515-8d51-99a3ab0d601f HTTP/1.1" 500 88743
+ERROR 2024-11-23 11:17:05,784 log Internal Server Error: /chat/complete/81f20f2a-fc4d-4515-8d51-99a3ab0d601f
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:17:05,785 basehttp "GET /chat/complete/81f20f2a-fc4d-4515-8d51-99a3ab0d601f HTTP/1.1" 500 88744
+ERROR 2024-11-23 11:17:09,869 log Internal Server Error: /chat/complete/81f20f2a-fc4d-4515-8d51-99a3ab0d601f
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:17:09,870 basehttp "GET /chat/complete/81f20f2a-fc4d-4515-8d51-99a3ab0d601f HTTP/1.1" 500 88744
+ERROR 2024-11-23 11:17:15,264 log Internal Server Error: /chat/complete/81f20f2a-fc4d-4515-8d51-99a3ab0d601f
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:17:15,265 basehttp "GET /chat/complete/81f20f2a-fc4d-4515-8d51-99a3ab0d601f HTTP/1.1" 500 88744
+INFO 2024-11-23 11:18:24,873 basehttp "GET /admin/memo/document/1/change/ HTTP/1.1" 200 13862
+INFO 2024-11-23 11:18:24,907 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-23 11:26:15,960 autoreload /usr/src/app/memo/tasks.py changed, reloading.
+INFO 2024-11-23 11:26:18,187 autoreload Watching for file changes with StatReloader
+INFO 2024-11-23 11:28:33,685 autoreload /usr/src/app/memo/tasks.py changed, reloading.
+INFO 2024-11-23 11:28:36,092 autoreload Watching for file changes with StatReloader
+INFO 2024-11-23 11:28:50,014 basehttp "POST /chat/complete HTTP/1.1" 200 51
+ERROR 2024-11-23 11:28:52,561 log Internal Server Error: /chat/complete/f1615776-f67b-4df3-868f-020a7b89a462
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:28:52,562 basehttp "GET /chat/complete/f1615776-f67b-4df3-868f-020a7b89a462 HTTP/1.1" 500 88744
+ERROR 2024-11-23 11:28:56,594 log Internal Server Error: /chat/complete/f1615776-f67b-4df3-868f-020a7b89a462
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:28:56,595 basehttp "GET /chat/complete/f1615776-f67b-4df3-868f-020a7b89a462 HTTP/1.1" 500 88744
+ERROR 2024-11-23 11:29:02,184 log Internal Server Error: /chat/complete/f1615776-f67b-4df3-868f-020a7b89a462
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:29:02,185 basehttp "GET /chat/complete/f1615776-f67b-4df3-868f-020a7b89a462 HTTP/1.1" 500 88743
+ERROR 2024-11-23 11:29:06,215 log Internal Server Error: /chat/complete/f1615776-f67b-4df3-868f-020a7b89a462
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:29:06,215 basehttp "GET /chat/complete/f1615776-f67b-4df3-868f-020a7b89a462 HTTP/1.1" 500 88744
+INFO 2024-11-23 11:29:10,235 basehttp "POST /chat/complete HTTP/1.1" 200 51
+ERROR 2024-11-23 11:29:12,269 log Internal Server Error: /chat/complete/00c7885b-1509-451d-966f-b0e722d94dea
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:29:12,269 basehttp "GET /chat/complete/00c7885b-1509-451d-966f-b0e722d94dea HTTP/1.1" 500 88743
+ERROR 2024-11-23 11:29:16,300 log Internal Server Error: /chat/complete/00c7885b-1509-451d-966f-b0e722d94dea
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:29:16,301 basehttp "GET /chat/complete/00c7885b-1509-451d-966f-b0e722d94dea HTTP/1.1" 500 88744
+ERROR 2024-11-23 11:29:20,331 log Internal Server Error: /chat/complete/00c7885b-1509-451d-966f-b0e722d94dea
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:29:20,331 basehttp "GET /chat/complete/00c7885b-1509-451d-966f-b0e722d94dea HTTP/1.1" 500 88744
+ERROR 2024-11-23 11:29:24,367 log Internal Server Error: /chat/complete/00c7885b-1509-451d-966f-b0e722d94dea
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/usr/src/app/memo/views.py", line 55, in get_chat_response
+    return JsonResponse(result, status=200)
+  File "/usr/local/lib/python3.10/site-packages/django/http/response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "/usr/local/lib/python3.10/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/usr/local/lib/python3.10/site-packages/django/core/serializers/json.py", line 106, in default
+    return super().default(o)
+  File "/usr/local/lib/python3.10/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type KeyError is not JSON serializable
+ERROR 2024-11-23 11:29:24,368 basehttp "GET /chat/complete/00c7885b-1509-451d-966f-b0e722d94dea HTTP/1.1" 500 88744
+INFO 2024-11-23 11:51:37,482 autoreload Watching for file changes with StatReloader
+INFO 2024-11-23 12:26:20,331 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-23 12:26:36,466 log Not Found: /
+WARNING 2024-11-23 12:26:36,466 basehttp "GET / HTTP/1.1" 404 2162
+WARNING 2024-11-23 12:26:36,749 log Not Found: /favicon.ico
+WARNING 2024-11-23 12:26:36,750 basehttp "GET /favicon.ico HTTP/1.1" 404 2213
+INFO 2024-11-23 12:26:42,696 basehttp "GET /admin/ HTTP/1.1" 200 11425
+INFO 2024-11-23 12:26:47,527 basehttp "GET /admin/memo/document/ HTTP/1.1" 200 12262
+INFO 2024-11-23 12:26:47,560 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-23 12:26:59,897 basehttp "GET /admin/memo/document/1/change/ HTTP/1.1" 200 13862
+INFO 2024-11-23 12:26:59,927 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-23 12:27:02,125 basehttp "GET /admin/memo/document/1/delete/ HTTP/1.1" 200 10949
+INFO 2024-11-23 12:27:02,145 basehttp "GET /statics/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2024-11-23 12:27:03,537 basehttp "POST /admin/memo/document/1/delete/ HTTP/1.1" 302 0
+INFO 2024-11-23 12:27:03,561 basehttp "GET /admin/memo/document/ HTTP/1.1" 200 11144
+INFO 2024-11-23 12:27:03,584 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-23 12:27:51,969 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:27:55,659 basehttp "GET /chat/complete/96828a31-e5ef-40e4-bf40-aeb6aa267f90 HTTP/1.1" 200 164
+INFO 2024-11-23 12:28:20,514 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:28:23,035 basehttp "GET /chat/complete/2d5d3325-7412-4efe-b880-412b9b4bb1ac HTTP/1.1" 200 181
+INFO 2024-11-23 12:30:45,075 autoreload /usr/src/app/memo/signals.py changed, reloading.
+INFO 2024-11-23 12:30:47,109 autoreload Watching for file changes with StatReloader
+INFO 2024-11-23 12:34:55,443 autoreload Watching for file changes with StatReloader
+WARNING 2024-11-23 12:35:11,397 log Not Found: /
+WARNING 2024-11-23 12:35:11,400 basehttp "GET / HTTP/1.1" 404 2162
+INFO 2024-11-23 12:35:21,563 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:35:24,082 basehttp "GET /chat/complete/79da44c1-2f4e-4282-bee4-16e41f8edaa8 HTTP/1.1" 200 164
+INFO 2024-11-23 12:35:32,169 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:35:34,689 basehttp "GET /chat/complete/3e888ec6-737a-447b-a9cd-68038a0115cc HTTP/1.1" 200 181
+INFO 2024-11-23 12:35:35,608 basehttp "GET /admin/memo/document/add/ HTTP/1.1" 200 13516
+INFO 2024-11-23 12:35:35,638 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-23 12:36:04,595 basehttp "POST /admin/memo/document/add/ HTTP/1.1" 302 0
+INFO 2024-11-23 12:36:04,627 basehttp "GET /admin/memo/document/ HTTP/1.1" 200 12473
+INFO 2024-11-23 12:36:04,647 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-11-23 12:36:24,445 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:36:28,473 basehttp "GET /chat/complete/08cc9169-ceef-44d1-a935-166963b35d50 HTTP/1.1" 200 269
+INFO 2024-11-23 12:37:03,703 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:37:06,222 basehttp "GET /chat/complete/3187f9e8-25d1-4b42-82e1-5035d5762a54 HTTP/1.1" 200 210
+INFO 2024-11-23 12:37:32,287 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:37:37,314 basehttp "GET /chat/complete/7ecfe1a0-94a1-47b8-9f59-1cb7bc81e9a8 HTTP/1.1" 200 1472
+INFO 2024-11-23 12:38:19,598 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:38:23,120 basehttp "GET /chat/complete/62f9f119-0d10-4990-bda2-f5b944835908 HTTP/1.1" 200 747
+INFO 2024-11-23 12:39:12,965 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:39:17,494 basehttp "GET /chat/complete/03cdfcf2-e29c-4b24-9f0d-ba3ddd09d2b4 HTTP/1.1" 200 975
+INFO 2024-11-23 12:40:23,412 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:40:27,941 basehttp "GET /chat/complete/42a7d842-8fc5-40e7-a5a3-0f3a43e7e6cb HTTP/1.1" 200 1401
+INFO 2024-11-23 12:42:12,083 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:42:16,610 basehttp "GET /chat/complete/41b71cb9-4cd8-4789-aeb7-f009d352b1fe HTTP/1.1" 200 1237
+INFO 2024-11-23 12:45:57,082 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:45:59,602 basehttp "GET /chat/complete/6d69ad75-b800-463f-aac7-47da88695713 HTTP/1.1" 200 164
+INFO 2024-11-23 12:46:10,471 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:46:13,491 basehttp "GET /chat/complete/aa6e8d86-2a59-44c6-ba70-86b42018c03a HTTP/1.1" 200 181
+INFO 2024-11-23 12:46:49,725 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:46:52,743 basehttp "GET /chat/complete/6ce062fd-6bf7-41e3-a341-b6e058e8395b HTTP/1.1" 200 210
+INFO 2024-11-23 12:47:23,514 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:47:27,037 basehttp "GET /chat/complete/2cb1fdf2-05bd-464f-a9b9-106e5b782bec HTTP/1.1" 200 824
+INFO 2024-11-23 12:47:43,253 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:47:47,278 basehttp "GET /chat/complete/6ef510c6-85dd-4f29-94c4-cb7e7642b7a9 HTTP/1.1" 200 1326
+INFO 2024-11-23 12:48:04,572 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:48:11,107 basehttp "GET /chat/complete/04c4b110-93bd-4663-bff4-258ee73100cd HTTP/1.1" 200 751
+INFO 2024-11-23 12:48:27,402 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:48:34,266 basehttp "GET /chat/complete/3bb352eb-2252-46e2-9f55-6314c9c5fb8e HTTP/1.1" 200 890
+INFO 2024-11-23 12:48:45,501 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:48:52,032 basehttp "GET /chat/complete/51e38a63-4582-4284-94c9-82bcd469014c HTTP/1.1" 200 1527
+INFO 2024-11-23 12:49:41,820 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:49:45,865 basehttp "GET /chat/complete/a984f0ba-dbf5-4b80-b8e5-7a53a7543181 HTTP/1.1" 200 164
+INFO 2024-11-23 12:49:52,992 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:49:55,520 basehttp "GET /chat/complete/61854a97-a412-4a05-be90-005f83270713 HTTP/1.1" 200 175
+INFO 2024-11-23 12:50:17,315 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:50:20,348 basehttp "GET /chat/complete/7344b8ff-0a8a-4bf6-a518-7f34d803882d HTTP/1.1" 200 210
+INFO 2024-11-23 12:50:27,965 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:50:33,515 basehttp "GET /chat/complete/97f68819-db20-4e18-8663-ca085343a5c4 HTTP/1.1" 200 829
+INFO 2024-11-23 12:50:48,961 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:50:59,533 basehttp "GET /chat/complete/fcfc9ec7-edfe-4f60-be7b-1a67072f3479 HTTP/1.1" 200 1219
+INFO 2024-11-23 12:51:24,682 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:51:31,233 basehttp "GET /chat/complete/4d613405-dfe2-4633-9850-fddd73f1a175 HTTP/1.1" 200 1076
+INFO 2024-11-23 12:51:51,723 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:51:57,776 basehttp "GET /chat/complete/ea133189-da3c-4fdf-a6ad-fd458d27bca3 HTTP/1.1" 200 1263
+INFO 2024-11-23 12:52:13,820 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:52:20,865 basehttp "GET /chat/complete/46610939-2aaa-4018-8f1f-05243d992043 HTTP/1.1" 200 1348
+INFO 2024-11-23 12:52:38,428 basehttp "POST /chat/complete HTTP/1.1" 200 51
+INFO 2024-11-23 12:52:41,454 basehttp "GET /chat/complete/fa56b554-e1ed-4359-b31b-ebb064f72fa2 HTTP/1.1" 200 233
