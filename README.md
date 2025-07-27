@@ -1,4 +1,4 @@
-# Sudo Code 2024 Setup
+
 
 ## Start database
     cd mariadb
